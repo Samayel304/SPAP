@@ -35,6 +35,17 @@
     padding-bottom: 4px;
     color: white;
 }
+.forget{
+    left: 60%;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 175px;
+}
+.forget .font2{
+    font-size: 12px;
+    padding-bottom: 2px;
+    color: white;
+}
 .login_form .email input,
 .login_form .password input{
     height: 23px;
